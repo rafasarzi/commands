@@ -1,0 +1,7 @@
+# CONVERTER PDF EM LIVRETO - LINUX
+
+# Instalar deps.
+sudo apt install texlive-extra-utils
+
+# Comando para converter:
+pdfbook2 --short-edge LivroOriginal.pdf
