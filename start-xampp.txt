@@ -1,0 +1,23 @@
+#START XAMPP
+
+#Para iniciar o XAMPP:
+sudo /opt/lampp/lampp start 
+
+#Para parar o XAMPP:
+sudo /opt/lampp/lampp stop
+
+#Agora você deve ver algo como isso em sua tela:
+Starting XAMPP 1.8.2...
+
+LAMPP: Starting Apache...
+
+LAMPP: Starting MySQL...
+
+LAMPP started.
+
+Ready. Apache and MySQL are running.
+
+#Além disso, há uma ferramenta gráfica que você pode usar para gerenciar seus servidores facilmente. Você pode iniciar esta ferramenta com os seguintes comandos:
+cd /opt/lampp
+
+sudo ./manager-linux.run (or manager-linux-x64.run)
