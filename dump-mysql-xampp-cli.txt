@@ -1,0 +1,1 @@
+/opt/lampp/bin/mysqldump -u root lyco > /home/rafa-pixter/dump_lyco_30-08-23.sql  
